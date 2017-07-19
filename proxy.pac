@@ -1,4 +1,4 @@
-var wall_proxy = "PROXY 121.196.213.212:16539;SOCKS5 121.196.213.212:16539;HTTPS 121.196.213.212:16539;";
+var wall_proxy = "PROXY 121.196.213.212:16539;";
 var nowall_proxy = "DIRECT;";
 var direct = "DIRECT;";
 var auto_proxy = wall_proxy; // if you have something like COW proxy
